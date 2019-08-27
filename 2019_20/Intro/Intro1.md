@@ -92,7 +92,7 @@ Daniel Garric :
 
 ![](./doigts.jpg)
 
-L'atome de l'informatique est la  logique, pas les nombres. Toute l'informatique
+L'atome de l'informatique est la  **LOGIQUE**, pas les nombres. Toute l'informatique
 se construit à partir de portes logiques, conceptuellement comme en pratique:
 
 
@@ -221,3 +221,18 @@ Soyez DRY : *Do not Repeat Yourself*
 
 Le copier-coller : le mal incarné !
 
+
+## IPad...
+
+L'IPad est à l'informatique ce que ce piano est à la musique...
+
+![](./IpadPiano2touches.jpg)
+
+## L'informatique dans la société
+
+
+
+
+
+
+# Organisation de l'année: que va-t-on étudier ?
