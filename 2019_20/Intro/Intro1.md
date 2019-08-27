@@ -32,3 +32,13 @@ scaphandre et le papillon")
 
 
 L'**informati**que c'est LΑ *SCIENCΕ* DΕ L'**INFORMATI**ON
+
+
+Le physicien traite d'énergie, d'ondes, de matières:
+
+[!](./usine)
+
+[!](./hiroshima)
+
+
+
