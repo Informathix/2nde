@@ -30,6 +30,10 @@ C'est par exemple ça:
 [![Le scaphandre et le papillon](./papillon.jpg)](https://www.youtube.com/embed/jpfHxfF-Kno "Le
 scaphandre et le papillon")
 
+ou en version plus blockbuster:
+
+[![martian.png]](https://youtu.be/ffB0Je-xjKg "The Martian")
+
 
 L'**informati**que c'est LΑ *SCIENCΕ* DΕ L'**INFORMATI**ON
 
