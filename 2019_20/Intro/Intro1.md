@@ -32,7 +32,7 @@ scaphandre et le papillon")
 
 ou en version plus blockbuster:
 
-[![Tha Martian](./martian.png)](https://www.youtube.com/embed/ffB0Je-xjKg "The Martian")
+[![Tha Martian](./martian.jpg)](https://www.youtube.com/embed/ffB0Je-xjKg "The Martian")
 
 
 L'**informati**que c'est LΑ *SCIENCΕ* DΕ L'**INFORMATI**ON
