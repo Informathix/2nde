@@ -27,13 +27,8 @@ C'est par exemple ça:
 
 
 
-[![Le scaphandre et le papillon](./papillon.jpg)](https://youtu.be/jpfHxfF-Kno "Le
+[![Le scaphandre et le papillon](./papillon.jpg)](https://www.youtube.com/embed/jpfHxfF-Kno "Le
 scaphandre et le papillon")
 
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpfHxfF-Kno" frameborder="0" allowfullscreen></iframe>
 
 
