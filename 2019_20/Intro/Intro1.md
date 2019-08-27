@@ -31,4 +31,4 @@ C'est par exemple ça:
 scaphandre et le papillon")
 
 
-
+L'**informati**que c'est LΑ *SCIENCΕ* DΕ L'**INFORMATI**ON
