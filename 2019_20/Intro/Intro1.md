@@ -231,14 +231,14 @@ L'IPad est à l'informatique ce que ce piano est à la musique...
 ## L'informatique dans la société
 
 
-![](./manmachine)
+![](./manmachine.jpeg)
 
 
 
 
 ## L'informatique a une histoire
 
-![](./ada)
+![](./ada.jpg)
 
 
 # Organisation de l'année: que va-t-on étudier ?
