@@ -231,8 +231,25 @@ L'IPad est à l'informatique ce que ce piano est à la musique...
 ## L'informatique dans la société
 
 
+![](./manmachine)
 
 
+
+
+## L'informatique a une histoire
+
+![](./ada)
 
 
 # Organisation de l'année: que va-t-on étudier ?
+
+Multiples facettes, multiples intervenants. Au  programme sept thèmes qui seront
+évoqués dans différents contextes tout au long de l'année:
+
+* Internet
+* Web
+* Structuration des données
+* Réseaux sociaux
+* Cartes
+* Photos
+* Objets connectés
