@@ -1,5 +1,5 @@
 # fichiers exclus du commit
-*.desktop
+.emacs.desktop
 *.aux
 *.log
 *.nav
