@@ -1,0 +1,10 @@
+# fichiers exclus du commit
+*.desktop
+*.aux
+*.log
+*.nav
+*.snm
+*.toc
+*.vrb
+*.el
+\#*\#

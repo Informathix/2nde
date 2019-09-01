@@ -1,0 +1,268 @@
+%\RequirePackage{atbegshi}
+\documentclass[french]{beamer}
+\usepackage{etex}
+
+\usepackage[beamer,euler, utf8x]{preambuleTrm}
+
+
+
+\usepackage{iwona}
+
+
+\mode<presentation>
+{
+  %\usetheme{Bergen}%Montpellier,Madrid}
+  % or ...Frankfurt, 
+  \usetheme{Montpellier}
+
+  %\setbeamercovered{highly dynamic}
+  % or whatever (possibly just delete it)
+  \usefonttheme{progressbar}
+%  \useoutertheme{progressbar}
+  %\useinnertheme{progressbar}
+ % \progressbaroptions{% titlepage=normal,
+  %  imagename=/home/moi/Photos/Maths/prisoner
+%}
+}
+
+%\usepackage{elephantbird}
+\newcommand\MyBox[2][XXX]{%
+  \fbox{\tabular[b]{C{#1}} #2 \endtabular}}
+
+\setbeamertemplate{footline}[frame number]
+\beamertemplatenavigationsymbolsempty
+
+%\usepackage[french,vlined,boxed]{algorithm2e}
+\usepackage{bookmark,multido}
+%\usepackage{xlop}
+
+\ifpdf \DeclareGraphicsRule{*}{mps}{*}{} \fi
+
+
+
+% \usepackage{tikz, pgfkeys, pgfopts, xstring}
+% \usetikzlibrary{automata,fit,trees,matrix,arrows,decorations.markings,shapes,arrows,chains,positioning,intersections,backgrounds,calc,through,mindmap,shadows,patterns, decorations.pathmorphing}
+
+% \usepackage{tkz-linknodes}
+
+% \usepackage{tkz-graph,tikz-uml, tkz-berge}
+% \input{patch-tkz-graph}
+% \usepackage{tikz-qtree}
+
+
+
+\usepackage{tikz}
+\usetikzlibrary{automata,fit,trees,shapes.arrows,chains,positioning,intersections,backgrounds,calc,matrix,arrows,decorations.pathmorphing}
+\newcommand{\myunit}{1.1cm}
+\usepackage{tkz-graph, tkz-berge}
+\input{patch-tkz-graph}
+\usepackage{tikz-qtree}
+%\usepackage{circuitikz}
+%\usepackage{Karnaugh}
+%\usepackage[autolanguage]{numprint}
+
+\usepackage{tkz-linknodes}
+
+
+
+\usepackage[underline=true,rounded corners=false]{pgf-umlsd}
+
+\hypersetup{pdfpagemode=FullScreen}
+
+\usepackage[detect-all]{siunitx}
+
+\usepackage{caption}
+\captionsetup{labelformat=empty,font=footnotesize}
+
+\usepackage[square]{daedale}
+\bibliographystyle{cyclope}
+
+
+\usepackage{algo}
+
+\renewcommand{\algocommentfont}{\tiny\ttfamily\itshape}
+\renewcommand{\algokeywordfont}{\small\ttfamily}
+\renewcommand{\algotextfont}{\footnotesize\ttfamily}
+\newtheorem{exercice}{Exercice}
+
+
+\setlength{\columnseprule}{0pt}
+
+%\setlength{\parskip}{0pt}
+
+
+\graphicspath{{/home/moi/Photos/Maths/small/}{/home/moi/IUT/Figures/}{/home/moi/VISA_III/figures_visa/}{/home/moi/Lycee/TDmaple/2006_7/}{/home/moi/Figures/Arbres_Graphes/}{/home/moi/Figures/FigSTI/}{/home/moi/Figures/FigMaple/}{/home/moi/Photos/Maths/}{/home/moi/Photos/Tehessin/}{/home/moi/Figures/FigSTI/}{/home/moi/Figures/FigSeconde/}{/home/moi/Lycee/Informatique/XCAS/2008_9/}{/home/moi/Lycee/TDmaple/2008_9/}{/home/moi/IUT/Thierry/Conversions/}{/home/moi/Photos/informathix/}{/home/moi/Lycee/Informatique/PafAlgo/}{/home/moi/Figures/figuresAlice/}{/home/moi/Figures/FigSeconde/}{/home/moi/Biocam/robot/}{/home/moi/Biocam/CoursIni3d/}{/home/moi/Biocam/central/figures/}{/home/moi/Biocam/central/}{/home/moi/IUT/INFO2/Images/}{/home/moi/IUT/INFO2/2011_12/graphes/}{/home/moi/IUT/INFO1/CM1/}{/home/moi/Figures/figuresTS/}{/home/moi/Photos/Tehessin/}{/home/moi/Figures/FigSTI/}{/home/moi/Alice/figures3/}{/home/moi/Alice/figures3/newcourbes/}{/home/moi/Alice/figures/}{/home/moi/Figures/figuresAlice/}{/home/moi/Photos/Maths/}{/home/moi/Lycee/TS/}{/home/moi/Lycee/TS/2009_10/}{/home/moi/Figures/FigMaple/}{/home/moi/Figures/figuresTS/newcourbes/}{/home/moi/Figures/FigEspace/}{/home/moi/PROG/HASKELL/FLOAT/}{/home/moi/LYCEE/LIL/4e/2016_17/Images/}{/home/moi/LYCEE/LIL/2nde/2016_17/Images/}{/home/moi/LYCEE/LIL/2nde/2016_17/fonctions/}{/home/moi/LYCEE/LIL/1S/2016_17/Images/}{/home/moi/LYCEE/LIL/1S/2016_17/Images/}{/home/moi/LYCEE/LIL/1S/2016_17/suites/suites1es/}{/home/moi/LYCEE/LIL/1S/2016_17/trigo/}{/home/moi/Photos/Maths/CAPTURES_TI/Suites/}{/home/moi/LYCEE/FIGURES/}{/home/moi/UCO/L1/ANGERS2018/Images/}}
+
+
+
+\setcounter{tocdepth}{2} %\setcounter{page}{0}
+
+
+
+
+\usepackage{fdsymbol}
+
+
+
+
+
+\setbeamercolor{block title}{use=structure,fg=black,bg=blue!55!white}
+\setbeamercolor{block body}{use=structure,fg=black,bg=blue!10!white}
+
+
+\setbeamercolor{block title example}{use=structure,fg=black,bg=green!55!white}
+\setbeamercolor{block body example}{use=structure,fg=black,bg=green!10!white}
+
+\setbeamercolor{block title alerted}{use=structure,fg=black,bg=red!55!white}
+\setbeamercolor{block body alerted}{use=structure,fg=black,bg=red!10!white}
+
+
+
+\setbeamerfont{block body}{size*={10}{12}}
+\setbeamerfont{block body alerted}{size*={10}{12}}
+\setbeamerfont{block body example}{size*={10}{12}}
+
+
+%\renewenvironment{exercise}{\begin{exampleblock}{Recherche}}{\end{exampleblock}}
+
+\usepackage{scalefnt}
+\setbeamertemplate{theorems}[normal size]
+
+
+\begin{document}
+
+
+\title[]% (optional, use only with long paper titles)
+{INFORMATIQUE: Projet 1}
+
+\subtitle{Open Street Map}
+
+\author[] % (optional, use only with lots of authors)
+{Guillaume CONNAN }
+% - Give the names in the same order as the appear in the paper.
+% - Use the inst{?} command only if the authors have different
+%   affiliation.
+
+
+\institute{Lycée Notre-Dame - 2$^{nde}$}% (optional, but mostly needed)
+
+\logo{\includegraphics[width=0.1\textwidth]{logondr}}
+
+%\logo{\includegraphics[scale=0.15]{big_connan}}
+
+\date[] % (optional, should be abbreviation of conference name)
+{\today{}}
+% - Either use conference name or its abbreviation.
+% - Not really informative to the audience, more for people (including
+%   yourself) who are reading the slides online
+
+\subject{ }
+
+
+
+\beamerdefaultoverlayspecification{<+->}
+
+
+\AtBeginSubsection[]
+{\scriptsize
+  \begin{frame}<beamer>
+    \frametitle{Sommaire}
+ {\tiny
+\begin{multicols}{2}
+    \tableofcontents[currentsection,currentsubsection]
+       \end{multicols}
+}
+
+  \end{frame}
+}
+
+
+
+
+
+\AtBeginSection[]
+{
+  \begin{frame}<beamer>
+    \frametitle{Sommaire}
+ {\scriptsize
+\begin{multicols}{2}
+    \tableofcontents[currentsection]
+       \end{multicols}
+}
+
+  \end{frame}
+}
+
+
+% If you wish to uncover everything in a step-wise fashion, uncomment
+% the following command: 
+
+\beamerdefaultoverlayspecification{<+->}
+
+
+
+
+\newcommand{\TR}{\mathcal{T}}
+
+
+\begin{frame}
+%\ThisCenterWallPaper{1}{logoiremBigInv}
+ \Large \titlepage 
+\end{frame}
+
+\begin{frame}
+ \frametitle{Sommaire}
+{\scriptsize
+\begin{multicols}{2} 
+ \tableofcontents
+\end{multicols}
+}
+
+ 
+ \end{frame}
+
+\normalsize
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% début
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
