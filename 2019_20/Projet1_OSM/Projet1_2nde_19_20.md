@@ -1,7 +1,7 @@
 # Projet OSM
 
 Ce projet  se déroule sur  trois semaines. À l'issue  de ces trois  séances vous
-devrez avoir  produit un  commpte-rendu de  vos travaux.  Il pourra  s'agir d'un
+devrez avoir  produit un  compte-rendu de  vos travaux.  Il pourra  s'agir d'un
 texte illustré  (au format PDF) et/ou  d'un diaporama (au format  PDF) et/ou une
 vidéo et/ou une page web.
 
@@ -33,10 +33,28 @@ Comment sont  repérés les points de  la carte ?  Qu'est-ce que GPS ?  Galileo 
 
 ## Contribuer ?
 
-Le  lycée  est mal  référencé  sur  OSM. Si  ce  n'est  déjà fait.  corriger  ce
+Le lycée est mal référencé sur OSM. Si ce n'est déjà fait, corriger ce
 problème. 
 
 Trouvez d'autres problèmes  à Rezé ou dans un autre  endroit que vous connaissez
-bien.
+bien et corrigez-les. Complétez des informations incomplètes.
 
 
+## Overpass Turbo
+
+Qu'est-ce qu'Overpass Turbo ? 
+
+Voici un exemple de requête :
+
+```c
+[out:json][timeout:2500];
+area[name="Pays de la Loire"][admin_level=4][boundary=administrative] -> .loc2;
+(
+  way["amenity"="school"]["operator:type"="private"]["school:FR"="lycée"](area.loc);
+);
+out center;
+```
+
+Que fait-elle ? Créez d'autres requêtes et présentez leurs résultats.
+
+CCliquez sur l'onglet `Données` : commentez. Qu'est-ce que `JSON` ?
