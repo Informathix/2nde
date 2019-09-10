@@ -57,4 +57,4 @@ out center;
 
 Que fait-elle ? Créez d'autres requêtes et présentez leurs résultats.
 
-CCliquez sur l'onglet `Données` : commentez. Qu'est-ce que `JSON` ?
+Cliquez sur l'onglet `Données` : commentez. Qu'est-ce que `JSON` ?
