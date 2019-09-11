@@ -22,7 +22,7 @@ collègues qui ne connaissent pas ce qu'est OSM, ce que l'on peut faire avec, et
 
 ## Travailler en équipe sur un projet
 
-Les outils présents sur votre compte (Office 365)[https://www.office.com/] :
+Les outils présents sur votre compte [Office 365](https://www.office.com/) :
 
 ![](./office365.png)
 
