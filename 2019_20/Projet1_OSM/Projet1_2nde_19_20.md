@@ -80,7 +80,7 @@ Voici un exemple de requête :
 
 ```c
 [out:json][timeout:2500];
-area[name="Pays de la Loire"][admin_level=4][boundary=administrative] -> .loc2;
+area[name="Pays de la Loire"][admin_level=4][boundary=administrative] -> .loc;
 (
   way["amenity"="school"]["operator:type"="private"]["school:FR"="lycée"](area.loc);
 );
