@@ -31,4 +31,5 @@ Seront évalués en particulier:
 
 13. Rappel des sources utilisées dans une webographie.
 
+14. Orthographe et syntaxe...
 
