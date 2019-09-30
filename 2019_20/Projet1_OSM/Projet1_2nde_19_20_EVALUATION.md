@@ -2,7 +2,7 @@
 
 Seront évalués en particulier: 
 
-1. Organisation/partage du travail en équipe.
+1. **Organisation/partage** du travail en équipe.
 
 2. Outils collaboratifs utilisés.
 
@@ -24,3 +24,7 @@ Seront évalués en particulier:
    et l'importance d'outils similaires.
    
 10. Apport personnel. Niveau de réflexion. Originalité. 
+
+11. Utilisation des outils d'aide, documentations, wikis.
+
+12. Rappel des sources utilisées dans une webographie.
