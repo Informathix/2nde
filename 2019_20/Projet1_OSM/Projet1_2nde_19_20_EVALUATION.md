@@ -23,8 +23,12 @@ Seront évalués en particulier:
 9. Compréhension de ce qu'est OSM, son but, son rôle, son organisation, l'apport
    et l'importance d'outils similaires.
    
-10. Apport personnel. Niveau de réflexion. Originalité. 
+10. Repérage, géolocalisation : GPS, Galileo, fonctionnement, rôle, différences.
+   
+11. Apport personnel. Niveau de réflexion. Originalité. 
 
-11. Utilisation des outils d'aide, documentations, wikis.
+12. Utilisation des outils d'aide, documentations, wikis.
 
-12. Rappel des sources utilisées dans une webographie.
+13. Rappel des sources utilisées dans une webographie.
+
+
