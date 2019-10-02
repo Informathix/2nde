@@ -1,9 +1,12 @@
 # Projet OSM
 
 Ce projet  se déroule sur  trois semaines. À l'issue  de ces trois  séances vous
-devrez avoir  produit un  compte-rendu de  vos travaux.  Il pourra  s'agir d'un
-texte illustré  (au format PDF) et/ou  d'un diaporama (au format  PDF) et/ou une
-vidéo et/ou une page web.
+devrez avoir  produit un  compte-rendu de  vos travaux.  Il pourrait  s'agir d'un
+texte illustré  (au format PDF)  mais cela est destiné  à être imprimé  et c'est
+mauvais pour  la planète. Cela pourrait  être un diaporama (au  format PDF) mais
+cela est destiné à illustrer un oral. Il  vaudra mieux penser à une page web via
+l'application  Sway  qui est  à  votre  disposition  sur votre  Office365  et/ou
+éventuellement une vidéo.
 
 Votre  production doit  présenter  votre  activité tout  au  long  de ces  trois
 semaines.
@@ -19,6 +22,7 @@ Vous ferez figurer les sources documentaires dans une bibliographie.
 Le contexte : vous  êtes une équipe en entreprise et vous  devez présenter à vos
 collègues qui ne connaissent pas ce qu'est OSM, ce que l'on peut faire avec, etc.
 
+Les consignes sont [ICI](https://github.com/Informathix/2nde/blob/master/2019_20/Projet1_OSM/Projet1_2nde_19_20_EVALUATION.md)
 
 ## Travailler en équipe sur un projet
 
@@ -26,7 +30,7 @@ Les outils présents sur votre compte [Office 365](https://www.office.com/) :
 
 ![](./office365.png)
 
-Plusieurs outils utiles pour ce projet :
+Plusieurs outils Office365 utiles pour ce projet :
 
 * SharePoint : créez  une page pour votre projet où  seront inscrits les membres
   de votre groupe (via leur  adresse `notre-dame-reze.fr`). Vous pourrez dans un
