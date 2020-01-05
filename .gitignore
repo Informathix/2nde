@@ -8,3 +8,5 @@
 *.vrb
 *.el
 *\#*
+
+./projet_Donnees/*
