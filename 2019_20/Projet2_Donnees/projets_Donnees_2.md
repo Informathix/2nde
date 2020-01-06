@@ -22,7 +22,7 @@ noir*. Le marché des *data broker* est en expansion exponentielle.
 
 1. Qu'est-ce que des data brokers ?
 2. Qui est *Palantir* ?
-3. Analysez l'[articl suivant](https://qz.com/213900/the-nine-companies-that-know-more-about-you-than-google-or-facebook/)
+3. Analysez l'[article suivant](https://qz.com/213900/the-nine-companies-that-know-more-about-you-than-google-or-facebook/)
    (en anglais...). Qu'en pensez-vous ?
 4.   Qu'est-ce  que   le   site   [peekYou](https://www.peekyou.com/)  ?   Qu'en
    pensez-vous ?
