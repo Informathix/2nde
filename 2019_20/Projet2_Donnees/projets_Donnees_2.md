@@ -21,16 +21,18 @@ Depuis  quelques  années, les  *données*  (data)  sont  devenues le  nouvel  *
 noir*. Le marché des *data broker* est en expansion exponentielle. 
 
 1. Qu'est-ce que des data brokers ?
-2. Qui est *Palantir* ?
+2.  Qui  est  *Palantir*  ?  Quel  est  son  rôle  ?  Qu'est-ce  que  *Cambridge
+   Analytica* ?  Quelle différence entre l'utilisation  des données personnelles
+   par l'équipe de campagne d'Obama en 2012 et celle de treump en 2016 ? Qu'en pensez-**vous**?
 3. Analysez l'[article suivant](https://qz.com/213900/the-nine-companies-that-know-more-about-you-than-google-or-facebook/)
-   (en anglais...). Qu'en pensez-vous ?
+   (en anglais...). Qu'en pensez-**vous** ?
 4.   Qu'est-ce  que   le   site   [peekYou](https://www.peekyou.com/)  ?   Qu'en
-   pensez-vous ?
+   pensez-**vous** ?
 5. Les données doivent-elles être accessibles à tout le monde ? Lire par exemple
    cet [article](https://fr.wikipedia.org/wiki/Rien_%C3%A0_cacher_(argument)) de
    Wikipedia et pourquoi pas ce [film](https://www.youtube.com/watch?v=djbwzEIv7gE).
 6. Les données personnelles sont-elles traitées de la même façon en Europe ? Aux
-   EUA ? En Chine ? Quelles différences ? Qu'en pnsez-**vous** ?
+   EUA ? En Chine ? Quelles différences ? Qu'en pensez-**vous** ?
 
 
 Nous n'allons pas travailler à présent sur des données personnelles mais sur les
@@ -68,22 +70,22 @@ Que faire avec ce fichier
 2. Créez à présent vous-même un petit fichier `csv` et ouvrez-le avec un tableur.
 
 3.  Voici à présent 
-un nouveau [fichier de travail](./titanic.csv). Enregistrez-le. 
+	un nouveau [fichier de travail](./titanic.csv). Enregistrez-le. 
 
-Quels  sont les  **descripteurs** de  ce fichier  ? Quels  sont les  *types* des
-**valeurs** associés à chaque descripteur ? 
+	* Quels sont les **descripteurs** de ce fichier ? Quels sont les *types* des
+	**valeurs** associés à chaque descripteur ? 
 
-À quoi correspondent les valeurs des différents descripteurs ?
+	* À quoi correspondent les valeurs des différents descripteurs ?
 
 
-Rédigez une phrase décrivant les informations données par la ligne numéro 37.
+	* Rédigez une phrase décrivant les informations données par la ligne numéro 37.
 
-Quel était le prix moyen d'un billet ?
+	* Quel était le prix moyen d'un billet ?
 
-Quelle  était la  probabilité  de survie  en première  classe  ? Seconde  classe
-Troisième classe ?
+	* Quelle était la probabilité de survie en première classe ? Seconde classe
+		Troisième classe ?
 
-Quelle était la proportion d'enfants (de moins de 18 ans) dans chaque classe ?
+	* Quelle était la proportion d'enfants (de moins de 18 ans) dans chaque classe ?
 
 ### Avec Python (Deuxième séance)
 
@@ -117,6 +119,7 @@ Collection*.
 2. Sur la partie droite de l'écran, vous voyez apparaître les musées représentés
    par des cercles  sur une carte. Si vous cliquez  sur l'onglet `Données`, vous
    voyez apparaître un texte qui débute ainsi :
+
 ```json
 {
   "version": 0.6,
