@@ -29,9 +29,12 @@ noir*. Le marché des *data broker* est en expansion exponentielle.
 5. Les données doivent-elles être accessibles à tout le monde ? Lire par exemple
    cet [article](https://fr.wikipedia.org/wiki/Rien_%C3%A0_cacher_(argument)) de
    Wikipedia et pourquoi pas ce [film](https://www.youtube.com/watch?v=djbwzEIv7gE).
+6. Les données personnelles sont-elles traitées de la même façon en Europe ? Aux
+   EUA ? En Chine ? Quelles différences ? Qu'en pnsez-**vous** ?
+
 
 Nous n'allons pas travailler à présent sur des données personnelles mais sur les
-données    accessibles   diffusées    par   des    organismes   publics    comme
+données accessibles diffusées par des organismes publics comme
 [data.gouv.fr](https://www.data.gouv.fr/fr/)       ou      le       site      de
 l'[Insee](https://insee.fr/fr/).
 
