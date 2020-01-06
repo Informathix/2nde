@@ -27,7 +27,7 @@ noir*. Le marché des *data broker* est en expansion exponentielle.
 3. Analysez l'[article suivant](https://qz.com/213900/the-nine-companies-that-know-more-about-you-than-google-or-facebook/)
    (en anglais...). Qu'en pensez-**vous** ?
 4.   Qu'est-ce  que   le   site   [peekYou](https://www.peekyou.com/)  ?   Qu'en
-   pensez-**vous** ?
+   pensez-**vous** ? Est-ce juste un annuaire genre 118-218 ?
 5. Les données doivent-elles être accessibles à tout le monde ? Lire par exemple
    cet [article](https://fr.wikipedia.org/wiki/Rien_%C3%A0_cacher_(argument)) de
    Wikipedia et pourquoi pas ce [film](https://www.youtube.com/watch?v=djbwzEIv7gE).
