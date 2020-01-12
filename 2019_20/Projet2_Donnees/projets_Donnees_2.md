@@ -110,6 +110,15 @@ Il est un peu pénible de traiter des  données avec un tableur, surtout s'il y 
 a  beaucoup. Heureusement,  l'utilisation d'un  langage de  programmation adapté
 peut largement nous aider comme par exemple Python.
 
+Vous allez ouvrir `Anaconda` puis `Jupyter`. 
+
+Voux  allez  enregistrer  [ce   fichier](https://raw.githubusercontent.com/Informathix/2nde/master/2019_20/Projet2_Donnees/ManipCSV.ipynb)  et  l'ouvrir  depuis
+`Jupyter`.
+
+Vous devez obtenir quelque chose qui ressemble à [ça](./ManipCSV.ipynb) 
+
+Vous répondrez aux questions posées dans ce document et inclurez ce fichier dans
+votre envoi. Attention ! Il faut renommer le fichier avec votre nom : `ManipCSV_p_nom_classe.ipynb`.
 
 
 ## Format json (Dernière séance)
@@ -243,3 +252,5 @@ Museum"` donne son nom, etc.
 
 
 ### À faire : récupération et exploitation d'un fichier `json` en ligne
+
+
