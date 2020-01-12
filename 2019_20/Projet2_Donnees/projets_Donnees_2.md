@@ -54,23 +54,39 @@ est son histoire ? Quel est son lien avec les *Big Data* ?
 
 ### Utilisation d'un tableur
 
-1. Voici par exemple [la liste des villes sous
-vidéosurveillance](https://www.data.gouv.fr/fr/datasets/villes-sous-videosurveillance/#_)
+1. Voici par exemple des données sur 
+[le temps de parole des femmes](https://www.data.gouv.fr/fr/datasets/temps-de-parole-des-hommes-et-des-femmes-a-la-television-et-a-la-radio/#_)
+à  la  radio  et  à  la  télévision.   Lisez  les  explications  de  ce  jeu  de
+données. Plusieurs fichiers sont ensuite mis à disposition au format CSV.
 
-Enregistrez la cible de ce lien [fichier au format
-`csv`](https://www.data.gouv.fr/fr/datasets/r/b56c1eda-6b75-468a-b33f-147d37224c9e)
+Voici le premier [fichier au format`csv`](./ParoleFemmes_fr.csv)
  
+Voici  le  même  fichier, également  au  format  CSV,  mais  on a  remplacé  les
+points-virgules par des virgules, et les virgules par des points : [fichier au format`csv`](./ParoleFemmes.csv)
  
-L'ouvrir avec un éditeur de texte et l'ouvrir avec un tableur.  Remarques ?
-Problèmes ? Vous pouvez demander de l'aide...
+Sur les  pages de  ces deux fichiers,  cliquez sur l'onglet  `Raw` qui  donne le
+fichier brut ? Que constatez-vous ? Comment l'expliquez-vous ? 
+
+Enregistrez ces deux fichiers sous forme brute et ouvrez-les avec `Libre Office Calc`.
 
 
-Que faire avec ce fichier 
+Que faire avec ces fichiers ? Peut-on répondre à ce genre de questions ? Comment ?
+
+* Quelle est la station de radio qui donne le plus la parole aux femmes ?
+
+* Quelle est la  station dont le temps de parole des femmes  a le plus progressé
+  depuis 2012 ?
+  
+* Est-ce que les femmes ont plus la parole à la télévision ou à la radio ?
+
+* Imaginez vos propres questions et répondez-y.
+
 
 2. Créez à présent vous-même un petit fichier `csv` et ouvrez-le avec un tableur.
 
-3.  Voici à présent 
-	un nouveau [fichier de travail](./titanic.csv). Enregistrez-le. 
+3.  Voici à présent un nouveau fichier de travail au 
+[format français](./titanic.csv) et au [format anglo-saxon](./titanic_gb.csv). Enregistrez-les. 
+Ouvrez-les avec `LibreOffice`.
 
 	* Quels sont les **descripteurs** de ce fichier ? Quels sont les *types* des
 	**valeurs** associés à chaque descripteur ? 
@@ -94,7 +110,7 @@ Il est un peu pénible de traiter des  données avec un tableur, surtout s'il y 
 a  beaucoup. Heureusement,  l'utilisation d'un  langage de  programmation adapté
 peut largement nous aider comme par exemple Python.
 
-C'est ce que nous verrons lors de la prochaine séance
+
 
 ## Format json (Dernière séance)
 
