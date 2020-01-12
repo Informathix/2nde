@@ -12,7 +12,11 @@
 1;0;Astor, Col. John Jacob;1;47;228
 1;1;Astor, Mrs. John Jacob (Madeleine Talmadge Force);2;18;228
 1;1;Aubart, Mme. Leontine Pauline;2;24;69
+<<<<<<< HEAD
 1;1;Barber, Miss. Ellen Nellie;2;26;79
+=======
+1;1;Barber, Miss. Ellen;2;26;79
+>>>>>>> 96d92143ed2b270830766b92119955156be4d754
 1;1;Barkworth, Mr. Algernon Henry Wilson;1;80;30
 1;0;Baumann, Mr. John D;1;50;26
 1;0;Baxter, Mr. Quigg Edmond;1;24;248
