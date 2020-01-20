@@ -1,0 +1,1163 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.7 8b86ff77",
+  "osm3s": {
+    "timestamp_osm_base": "2020-01-05T09:57:02Z",
+    "timestamp_areas_base": "2020-01-05T09:10:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 19085022,
+      "lat": 51.669645,
+      "lon": -0.0682606,
+      "tags": {
+        "name": "Forty Hall Museum",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q5472972"
+      }
+    },
+    {
+      "type": "node",
+      "id": 27408513,
+      "lat": 51.5108862,
+      "lon": -0.307107,
+      "tags": {
+        "name": "Pitzhanger Manor House and Gallery",
+        "tourism": "museum",
+        "website": "https://www.pitzhanger.org.uk/",
+        "wikidata": "Q2097388"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29269886,
+      "lat": 51.5228224,
+      "lon": -0.1547768,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "8-10",
+        "addr:postcode": "NW1 5LR",
+        "addr:street": "Marylebone Road",
+        "email": "guest.experience@madame-tussauds.com",
+        "fhrs:confidence_management": "10",
+        "fhrs:hygiene": "5",
+        "fhrs:id": "428012",
+        "fhrs:local_authority_id": "01066/4000/0/000",
+        "fhrs:rating": "4",
+        "fhrs:structural": "5",
+        "name": "Madame Tussauds",
+        "name:ru": "Мадам Тюссо",
+        "name:zh": "杜莎夫人蜡像馆",
+        "opening_hours": "Mo-Fr 09:30-17:30; Sa-Su 09:00-18:00",
+        "phone": "+44 871 894 3000",
+        "source:addr": "FSA Food Hygiene Ratings Database",
+        "source:postcode": "FSA Food Hygiene Ratings Database",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "website": "https://www.madametussauds.co.uk/london",
+        "wheelchair": "yes",
+        "wheelchair:description": "Bis auf die Bustour am Ende kann man sich alles ansehen. Und wenn man Hilfe braucht um sich mit einer Figur fotografieren zu lassen sind die Mitarbeiter zur Stelle.",
+        "wikidata": "Q186309",
+        "wikipedia": "en:Madame Tussauds London"
+      }
+    },
+    {
+      "type": "node",
+      "id": 37124475,
+      "lat": 51.36511,
+      "lon": -0.1668055,
+      "tags": {
+        "description": "The water tower is a very unusual early 18th century garden building. As the name suggests, this contained a water-powered pump which supplied water to Carshalton House and the fountains in its garden.",
+        "flickr": "https://www.flickr.com/photos/rogersg/3667834465/",
+        "name": "Carshalton Water Tower",
+        "tourism": "museum",
+        "website": "http://www.carshaltonwatertower.co.uk",
+        "wikidata": "Q17531582"
+      }
+    },
+    {
+      "type": "node",
+      "id": 261700004,
+      "lat": 51.4736073,
+      "lon": -0.1155806,
+      "tags": {
+        "name": "The Type Museum",
+        "tourism": "museum",
+        "wikidata": "Q7860886",
+        "wikipedia": "en:Type Museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 268039103,
+      "lat": 51.5965947,
+      "lon": -0.1942691,
+      "tags": {
+        "name": "Stephens Collection",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 270420473,
+      "lat": 51.506231,
+      "lon": -0.0372858,
+      "tags": {
+        "name": "Pumphouse Educational Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 334631276,
+      "lat": 51.5233722,
+      "lon": -0.1162091,
+      "tags": {
+        "addr:housenumber": "48",
+        "addr:street": "Doughty Street",
+        "comment": "Last admission is at 16:30. Tickets: adult — £6, concession — £4.50, child — £3, family — £15.",
+        "name": "Dickens Museum",
+        "opening_hours": "10:00-17:00",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q2723633"
+      }
+    },
+    {
+      "type": "node",
+      "id": 336347265,
+      "lat": 51.5566742,
+      "lon": -0.1081434,
+      "tags": {
+        "name": "Arsenal Museum",
+        "name:fa": "موزه آرسنال",
+        "tourism": "museum",
+        "wikidata": "Q4796396",
+        "wikipedia": "en:Arsenal Football Club Museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 336351665,
+      "lat": 51.5786747,
+      "lon": -0.4272326,
+      "tags": {
+        "created_by": "Potlatch 0.10f",
+        "name": "Manor Farm Complex",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 425669383,
+      "lat": 51.3594247,
+      "lon": -0.2171365,
+      "tags": {
+        "description": "A historic tudor home with later additions from the Stuart, Georgian and Victorian periods.",
+        "flickr": "https://www.flickr.com/photos/25829192@N03/3960636881/",
+        "name": "Whitehall",
+        "tourism": "museum",
+        "website": "http://www.friendsofwhitehallcheam.co.uk",
+        "wikidata": "Q7995973",
+        "wikipedia": "en:Whitehall (Sutton)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 441294238,
+      "lat": 51.4863215,
+      "lon": 0.0959941,
+      "tags": {
+        "name": "Borough Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 472152158,
+      "lat": 51.5048027,
+      "lon": -0.1156513,
+      "tags": {
+        "name": "Topolski Century",
+        "tourism": "museum",
+        "website": "http://www.topolskicentury.org.uk/",
+        "wikidata": "Q7825056",
+        "wikipedia": "en:Topolski Century"
+      }
+    },
+    {
+      "type": "node",
+      "id": 510786764,
+      "lat": 51.5236108,
+      "lon": -0.1328732,
+      "tags": {
+        "name": "Petrie Museum of Egyptian Archeology",
+        "opening_hours": "Tu-Sa 13:00-17:00",
+        "tourism": "museum",
+        "website": "http://www.ucl.ac.uk/museums/petrie",
+        "wheelchair": "limited",
+        "wikidata": "Q2002512"
+      }
+    },
+    {
+      "type": "node",
+      "id": 596592105,
+      "lat": 51.5344736,
+      "lon": 0.0993936,
+      "tags": {
+        "name": "Eastbury Manor House",
+        "tourism": "museum",
+        "wikidata": "Q5329849",
+        "wikipedia": "en:Eastbury Manor House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 632558518,
+      "lat": 51.4095825,
+      "lon": -0.30031,
+      "tags": {
+        "name": "Kingston Museum",
+        "tourism": "museum",
+        "wheelchair": "limited",
+        "wikidata": "Q6413566"
+      }
+    },
+    {
+      "type": "node",
+      "id": 672741997,
+      "lat": 51.4901511,
+      "lon": -0.1293639,
+      "tags": {
+        "name": "Chelsea Space",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 677605909,
+      "lat": 51.4655591,
+      "lon": -0.1023901,
+      "tags": {
+        "name": "Redgate Gallery",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 679119297,
+      "lat": 51.4837475,
+      "lon": -0.2585917,
+      "tags": {
+        "name": "Chiswick House",
+        "tourism": "museum",
+        "website": "http://chiswickhouseandgardens.org.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 724398596,
+      "lat": 51.558088,
+      "lon": 0.075381,
+      "tags": {
+        "amenity": "library",
+        "name": "Redbridge Museum",
+        "source": "Personal knowledge",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 734057156,
+      "lat": 51.5238169,
+      "lon": -0.0865519,
+      "tags": {
+        "name": "Museum of Methodism",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 872531905,
+      "lat": 51.681674,
+      "lon": -0.0949764,
+      "tags": {
+        "name": "Whitewebs Museum of Transport",
+        "tourism": "museum",
+        "website": "http://www.whitewebbsmuseum.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 910356813,
+      "lat": 51.4790917,
+      "lon": -0.0079655,
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "12",
+        "addr:postcode": "SE10 8ER",
+        "addr:street": "Crooms Hill",
+        "name": "The Fan Museum",
+        "opening_hours": "Tu-Sa 11:00-17:00; Su 12:00-17:00",
+        "tourism": "museum",
+        "wikidata": "Q5433566",
+        "wikipedia": "en:Fan Museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1043510888,
+      "lat": 51.5246649,
+      "lon": -0.13353,
+      "tags": {
+        "name": "The Octagon Gallery",
+        "toilets:wheelchair": "no",
+        "tourism": "museum",
+        "website": "http://www.ucl.ac.uk/museums/visit/highlights/octagon",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1216160782,
+      "lat": 51.523747,
+      "lon": -0.1342703,
+      "tags": {
+        "name": "Grant Museum of Zoology",
+        "tourism": "museum",
+        "website": "http://www.ucl.ac.uk/museums/zoology",
+        "wheelchair": "limited",
+        "wikidata": "Q5596372"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1288877546,
+      "lat": 51.5021025,
+      "lon": -0.0980994,
+      "tags": {
+        "name": "London Fire Brigade Museum",
+        "tourism": "museum",
+        "wikidata": "Q6670413"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1289223308,
+      "lat": 51.4998279,
+      "lon": -0.142551,
+      "tags": {
+        "name": "Queen's Gallery",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q1434767",
+        "wikipedia": "en:Queen's Gallery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1493424622,
+      "lat": 51.5129421,
+      "lon": -0.1458842,
+      "tags": {
+        "addr:housenumber": "25",
+        "addr:street": "Brook Street",
+        "name": "Handel & Hendrix",
+        "tourism": "museum",
+        "website": "https://handelhendrix.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1558137005,
+      "lat": 51.5445834,
+      "lon": -0.0560328,
+      "tags": {
+        "name": "Hackney Museum",
+        "note": "On ground floor of Hackney Central Library building",
+        "operator": "Hackney Council",
+        "source": "survey",
+        "tourism": "museum",
+        "website": "http://www.hackney.gov.uk/cm-museum.htm",
+        "wikidata": "Q18748758"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1588957563,
+      "lat": 51.5264897,
+      "lon": -0.1045003,
+      "tags": {
+        "fee": "no",
+        "level": "-1",
+        "name": "Islington Museum",
+        "note": "In basement of Finsbury Library",
+        "operator": "Islington Council",
+        "tourism": "museum",
+        "website": "https://www.islington.gov.uk/islington/history-heritage/heritage_museum/Pages/default.aspx",
+        "wheelchair": "yes",
+        "wikidata": "Q6084382",
+        "wikipedia": "en:Islington Museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1686474834,
+      "lat": 51.522006,
+      "lon": -0.1025564,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "St John's Gate",
+        "addr:postcode": "EC1M 4DA",
+        "addr:street": "St John's Lane",
+        "name": "Museum of the Order of St John",
+        "opening_hours": "Mo-Sa 10:00-17:00",
+        "operator": "Order of St John",
+        "phone": "+4420 7324 4005",
+        "source": "photograph",
+        "tourism": "museum",
+        "website": "http://museumstjohn.org.uk/",
+        "wheelchair": "no",
+        "wikidata": "Q6941110",
+        "wikipedia": "en:Museum of the Order of St John"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1731830617,
+      "lat": 51.5217693,
+      "lon": -0.1286816,
+      "tags": {
+        "addr:city": "London",
+        "addr:postcode": "WC1H 0XG",
+        "addr:street": "Thornhaugh Street",
+        "name": "Brunei Gallery, SOAS",
+        "tourism": "museum",
+        "website": "https://www.soas.ac.uk/gallery/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1926714581,
+      "lat": 51.5179214,
+      "lon": 0.1907566,
+      "tags": {
+        "name": "Rainham Hall",
+        "tourism": "museum",
+        "wikidata": "Q7284889"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2028840405,
+      "lat": 51.495288,
+      "lon": -0.0121518,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "37-43",
+        "addr:postcode": "E14 3NE",
+        "addr:street": "Glengall Grove",
+        "name": "Friends of Island History Trust",
+        "tourism": "museum",
+        "website": "https://www.islandhistory.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2043098448,
+      "lat": 51.3720528,
+      "lon": -0.0992517,
+      "tags": {
+        "name": "Museum of Croydon",
+        "tourism": "museum",
+        "website": "www.museumofcroydon.com",
+        "wikidata": "Q6940827"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2102604123,
+      "lat": 51.519793,
+      "lon": -0.0724844,
+      "tags": {
+        "name": "The Museum of Immigration and Diversity at 19 Princelet Street",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2244751330,
+      "lat": 51.5208921,
+      "lon": -0.0778038,
+      "tags": {
+        "name": "Dennis Severs' House",
+        "opening_hours": "Mo, We, Fr 17:00-21:00; Su 12:00-15:00",
+        "source": "+44 20 7247 4013",
+        "tourism": "museum",
+        "wikidata": "Q3313296"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2299893779,
+      "lat": 51.5307327,
+      "lon": -0.3543322,
+      "tags": {
+        "name": "London Motorcycle Museum. Closed down 2019.",
+        "tourism": "museum",
+        "wikidata": "Q6670597"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2455741108,
+      "lat": 51.6264811,
+      "lon": -0.3333653,
+      "tags": {
+        "name": "Bentley Priory",
+        "note": "opening to public end of oct 2013",
+        "tourism": "museum",
+        "website": "http://www.bentleypriory.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2606221073,
+      "lat": 51.5043092,
+      "lon": -0.0761761,
+      "tags": {
+        "name": "Tower Bridge Engine Rooms",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2617232245,
+      "lat": 51.5295982,
+      "lon": -0.1281295,
+      "tags": {
+        "addr:housenumber": "96",
+        "addr:street": "Euston Road",
+        "name": "British Library Exhibition Space",
+        "opening_hours": "Jan-Dec: Mo, We-Fr 10:00-18:00; Jan-Dec: Tu 10:00-20:00; Sa 11:00-17:00; Su, PH off",
+        "phone": "+44 1937546546",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2617821322,
+      "lat": 51.5259739,
+      "lon": -0.1340195,
+      "tags": {
+        "addr:housenumber": "183",
+        "addr:street": "Euston Road",
+        "entrance": "main",
+        "name": "Wellcome Collection",
+        "opening_hours": "Tu-We 10:00-18:00; Th 10:00-22:00; Fr-Sa 10:00-18:00; Su 11:00-18:00",
+        "phone": "+44 20 7611 2222",
+        "source": "unknown;survey",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "website": "http://www.wellcomecollection.org",
+        "wheelchair": "yes",
+        "wikidata": "Q7981191",
+        "wikipedia": "en:Wellcome Collection"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3059089468,
+      "lat": 51.5355751,
+      "lon": -0.1239722,
+      "tags": {
+        "name": "House of Illustration",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3196157132,
+      "lat": 51.6504326,
+      "lon": -0.0804069,
+      "tags": {
+        "name": "Dugdale Centre Museum",
+        "tourism": "museum",
+        "wikidata": "Q17560918"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3349882188,
+      "lat": 51.5152798,
+      "lon": -0.1158728,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Royal College of Surgeons",
+        "addr:housenumber": "35-43",
+        "addr:postcode": "WC2A 3PE",
+        "addr:street": "Lincoln's Inn Fields",
+        "name": "Hunterian Museum",
+        "opening_hours": "Tu-Sa 10:00-17:00",
+        "tourism": "museum",
+        "website": "https://www.rcseng.ac.uk/museums-and-archives/hunterian-museum/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3421853547,
+      "lat": 51.5722859,
+      "lon": -0.1487534,
+      "tags": {
+        "name": "Highgate School Museum",
+        "opening_hours": "Sa 10:00-13:00",
+        "operator": "Highgate School",
+        "tourism": "museum",
+        "website": "https://www.highgateschool.org.uk/news/33-lent-2015/1219-highgate-school-museum",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3498748654,
+      "lat": 51.5124599,
+      "lon": -0.1210881,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "45",
+        "addr:postcode": "WC2E 7BN",
+        "addr:street": "Wellington Street",
+        "name": "London Film Museum",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "tourism": "museum",
+        "website": "http://londonfilmmuseum.com/",
+        "wikidata": "Q6670408",
+        "wikipedia": "en:London Film Museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3680632656,
+      "lat": 51.5172894,
+      "lon": -0.0602067,
+      "tags": {
+        "fee": "no",
+        "name": "The Royal London Hospital Museum",
+        "opening_hours": "Tu-Fr 10:00-16:00",
+        "tourism": "museum",
+        "website": "https://www.bartshealth.nhs.uk/the-royal-london-hospital-museum-and-archives"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761601091,
+      "lat": 51.5616517,
+      "lon": -0.08268,
+      "tags": {
+        "name": "The Gallery",
+        "source": "survey",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3916613190,
+      "lat": 51.5237629,
+      "lon": -0.1584743,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "221b",
+        "addr:street": "Baker Street",
+        "level": "0-1",
+        "name": "The Sherlock Holmes Museum and shop",
+        "name:en": "Sherlock Holmes Museum",
+        "name:zh": "福爾摩斯博物館",
+        "opening_hours": "Mo-Su 09:30-18:00",
+        "phone": "+44 207 224 3688",
+        "tourism": "museum",
+        "website": "http://www.sherlock-holmes.co.uk",
+        "wheelchair": "no",
+        "wikidata": "Q1990172"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4359087289,
+      "lat": 51.5201349,
+      "lon": -0.0713801,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "Museum Of Happiness",
+        "name:en": "Museum Of Happiness",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4384901986,
+      "lat": 51.4639484,
+      "lon": -0.1163525,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "187",
+        "addr:postcode": "SW9 8BA",
+        "addr:street": "Ferndale Road",
+        "name": "The Chocolate Museum",
+        "opening_hours": "We-Fr 14:00-19:00; Sa 11:00-18:00",
+        "phone": "+44 7723434235",
+        "tourism": "museum",
+        "website": "https://www.thechocolatemuseum.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4440741736,
+      "lat": 51.5571646,
+      "lon": -0.1691747,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "2",
+        "addr:postcode": "NW3 1TH",
+        "addr:street": "Willow Road",
+        "name": "2 Willow Road",
+        "operator": "National Trust",
+        "tourism": "museum",
+        "wikidata": "Q222881"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4480990844,
+      "lat": 51.5960603,
+      "lon": -0.2414621,
+      "tags": {
+        "alt_name": "MODA",
+        "name": "Museum of Domestic Design & Architecture",
+        "opening_hours": "\"by appointment\"",
+        "operator": "Middlesex University",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513756124,
+      "lat": 51.4971162,
+      "lon": -0.176276,
+      "tags": {
+        "addr:postcode": "SW7 2DD",
+        "addr:street": "Exhibition Road",
+        "fee": "no",
+        "layer": "2",
+        "name": "The Clockmakers' Museum",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "tourism": "museum",
+        "website": "http://www.clockmakers.org/the-clockmakers-museum-library/",
+        "wikidata": "Q5134817",
+        "wikipedia": "en:Clockmakers' Museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4712977392,
+      "lat": 51.5392769,
+      "lon": -0.1010821,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "Shillingford Street",
+        "name": "Lie Lie Land",
+        "opening_hours": "24/7",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4737629421,
+      "lat": 51.5341831,
+      "lon": -0.1202595,
+      "tags": {
+        "level": "-1",
+        "name": "London Canal Museum",
+        "name:ca": "Museu del Canal de Londres",
+        "name:en": "King's Cross Ice Well",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4749096025,
+      "lat": 51.5000475,
+      "lon": -0.1361252,
+      "tags": {
+        "email": "guardsmuseum@aol.com",
+        "name": "The Guards Museum",
+        "name:hu": "Királyi Testőrség Múueuma",
+        "opening_hours": "Mo-Su 10:00-16:00",
+        "tourism": "museum",
+        "website": "http://theguardsmuseum.com/",
+        "wikidata": "Q3521171"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4973585223,
+      "lat": 51.5247243,
+      "lon": -0.1139982,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "15-20",
+        "addr:postcode": "WC1X 0DA",
+        "addr:street": "Phoenix Place",
+        "name": "The Postal Museum",
+        "opening_hours": "10:00-17:00",
+        "operator": "Postal Heritage Trust",
+        "phone": "+44 300 0300 700",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "website": "https://www.postalmuseum.org/",
+        "wheelchair": "yes",
+        "wheelchair:description": "Slight ramp from street, wide automatic door. Museum is on a single level. Lift to 1st floor discovery centre. Accessible WC without RADAR key. Step-free to Mail Rail."
+      }
+    },
+    {
+      "type": "node",
+      "id": 4973886525,
+      "lat": 51.5346988,
+      "lon": -0.0576431,
+      "tags": {
+        "addr:housenumber": "11",
+        "addr:postcode": "E8 4RP",
+        "addr:street": "Mare Street",
+        "email": "info@thelasttuesdaysociety.org",
+        "name": "The Viktor Wynd Museum of Curiosities",
+        "name:en": "The Viktor Wynd Museum of Curiosities",
+        "opening_hours": "We-Su 12:00-11:00",
+        "operator": "The Last Tuesday Society",
+        "phone": "+44 20 79983617",
+        "tourism": "museum",
+        "website": "http://www.thelasttuesdaysociety.org/museum-curiosities/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5029665757,
+      "lat": 51.531669,
+      "lon": -0.1279676,
+      "tags": {
+        "name": "Crick Exhibition",
+        "opening_hours": "Fr, Sa 10:00-17:00; We 10:00-20:00; Th 10:00-15:00",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5071252726,
+      "lat": 51.5049487,
+      "lon": -0.1271564,
+      "tags": {
+        "name": "Household Cavalry Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5078803319,
+      "lat": 51.5409797,
+      "lon": 0.2147365,
+      "tags": {
+        "name": "Memory Booth",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5135423467,
+      "lat": 51.5020601,
+      "lon": -0.4213322,
+      "tags": {
+        "name": "London Motor Museum",
+        "tourism": "museum",
+        "wikidata": "Q15242652",
+        "wikipedia": "en:London Motor Museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5188873144,
+      "lat": 51.5212329,
+      "lon": -0.3354444,
+      "tags": {
+        "addr:postcode": "W7 1PD",
+        "addr:street": "Westcott Crescent",
+        "email": "davidblackwell99@gmail.com",
+        "name": "Hanwell & Ealing Heritage Museum",
+        "opening_hours": "Wed & Sat: 1100-1500",
+        "phone": "+44 2085790178",
+        "tourism": "museum",
+        "website": "www.facebook.com Hanwell & Ealing Heritage Museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5207251549,
+      "lat": 51.524345,
+      "lon": -0.1129356,
+      "tags": {
+        "addr:city": "London",
+        "addr:street": "Phoenix Place",
+        "name": "Mail Rail Museum",
+        "name:zh": "邮政博物馆",
+        "tourism": "museum",
+        "website": "https://www.postalmuseum.org/",
+        "wheelchair": "yes",
+        "wheelchair:description": "RADAR key Changing Places toilet not checked today. Lift (reverse in/out, no mirror) down to exhibition area with wide level aisles. Street entrance has automatic sliding door.",
+        "wikidata": "Q3520122",
+        "wikipedia": "en:Postal Museum, London"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5247197725,
+      "lat": 51.5214637,
+      "lon": -0.0997845,
+      "tags": {
+        "admission": "free",
+        "name": "The Charterhouse",
+        "opening_hours": "Tu-Su 11:00-16:45",
+        "tourism": "museum",
+        "website": "http://www.thecharterhouse.org/",
+        "wikidata": "Q6670230",
+        "wikipedia": "en:London Charterhouse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5323721988,
+      "lat": 51.5078919,
+      "lon": -0.1253919,
+      "tags": {
+        "level": "-1",
+        "name": "British Optical Association Museum",
+        "note": "Open weekdays, by appointment only (also may be open on Open House London weekend).",
+        "operator": "The College of Optometrists",
+        "phone": "+44 20 7766 4353",
+        "tourism": "museum",
+        "wheelchair": "no",
+        "wikidata": "Q14993329"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5412585922,
+      "lat": 51.5012993,
+      "lon": -0.1665781,
+      "tags": {
+        "name": "Memorial Scrolls Trust",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5421662424,
+      "lat": 51.5072128,
+      "lon": -0.19454,
+      "tags": {
+        "addr:housenumber": "128",
+        "addr:postcode": "W8 4BH",
+        "addr:street": "Kensington Church Street",
+        "name": "Clementi House - house of Muzio Clementi",
+        "phone": "+44 2072294098",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5610431353,
+      "lat": 51.4676358,
+      "lon": -0.0885088,
+      "tags": {
+        "contact:instagram": "https://instagram.com/salvarmyarchive/",
+        "contact:twitter": "https://twitter.com/salvarmyarchive/",
+        "email": "heritage@salvationarmy.org.uk",
+        "name": "International Heritage Centre",
+        "opening_hours": "Tu-Fr 09:30-16:00",
+        "operator": "Salvation Army",
+        "phone": "+442073267800",
+        "tourism": "museum",
+        "website": "https://www.salvationarmy.org.uk/international-heritage-centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5656298167,
+      "lat": 51.6528191,
+      "lon": -0.2024586,
+      "tags": {
+        "name": "Barnet Museum",
+        "tourism": "museum",
+        "wikidata": "Q4861613"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5656403457,
+      "lat": 51.5175548,
+      "lon": -0.1248012,
+      "tags": {
+        "name": "Museum of Comedy",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5741257603,
+      "lat": 51.5000072,
+      "lon": -0.1176697,
+      "tags": {
+        "addr:housename": "Gassiot House",
+        "addr:housenumber": "252",
+        "addr:postcode": "SE1 7PD",
+        "addr:street": "Westminster Bridge Road",
+        "name": "The Florence Nightingale Museum",
+        "tourism": "museum",
+        "wikidata": "Q5460739",
+        "wikipedia": "en:Florence Nightingale Museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5836502584,
+      "lat": 51.5467447,
+      "lon": -0.2289943,
+      "tags": {
+        "name": "Brent Museum",
+        "tourism": "museum",
+        "website": "https://www.brent.gov.uk/museum",
+        "wikidata": "Q28835991"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6307248821,
+      "lat": 51.5257779,
+      "lon": -0.1447883,
+      "tags": {
+        "name": "Royal College of Physicians Museum",
+        "operator": "Royal College of Physicians",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6414630967,
+      "lat": 51.5233717,
+      "lon": -0.1522712,
+      "tags": {
+        "name": "Royal Academy of Music Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6476410685,
+      "lat": 51.5012898,
+      "lon": -0.191713,
+      "tags": {
+        "addr:housenumber": "101-111",
+        "addr:postcode": "W8 5SA",
+        "addr:street": "Kensington High Street",
+        "name": "Japan House",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 12:00-18:00",
+        "tourism": "museum",
+        "website": "http://japanhouselondon.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6513574233,
+      "lat": 51.4779618,
+      "lon": -0.0016737,
+      "tags": {
+        "name": "Royal Observatory",
+        "opening_hours": "Mo-Sa 10:00-17:00",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6515250885,
+      "lat": 51.5102367,
+      "lon": -0.1340946,
+      "tags": {
+        "name": "Body world",
+        "name:en": "Body worlds london",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6525008514,
+      "lat": 51.528945,
+      "lon": -0.1743025,
+      "tags": {
+        "name": "MCC Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6857193346,
+      "lat": 51.5088714,
+      "lon": -0.1286594,
+      "tags": {
+        "name": "National Gallery",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7009858285,
+      "lat": 51.5121475,
+      "lon": -0.2246386,
+      "tags": {
+        "addr:housenumber": "62",
+        "addr:street": "Wood Lane",
+        "name": "Elephant West",
+        "tourism": "museum",
+        "website": "https://elephantwest.art/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7046046492,
+      "lat": 51.5175094,
+      "lon": -0.1530662,
+      "tags": {
+        "name": "The",
+        "name:en": "The wallace collection",
+        "name:zh": "华勒斯典藏馆",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7057055685,
+      "lat": 51.4905939,
+      "lon": -0.1587442,
+      "tags": {
+        "name": "Saatchi gallery",
+        "name:zh": "萨奇画廊",
+        "tourism": "museum"
+      }
+    }
+  ]
+}
