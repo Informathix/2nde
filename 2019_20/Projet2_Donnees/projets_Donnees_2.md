@@ -135,6 +135,7 @@ Vous devez obtenir quelque chose qui ressemble à [ça](./ManipCSV.ipynb)
 Vous répondrez aux questions posées dans ce document et inclurez ce fichier dans
 votre envoi. Attention ! Il faut renommer le fichier avec votre nom : `ManipCSV_p_nom_classe.ipynb`.
 
+<!--
 
 ## Format json (Dernière séance)
 
@@ -269,3 +270,4 @@ Museum"` donne son nom, etc.
 ### À faire : récupération et exploitation d'un fichier `json` en ligne
 
 
+-->
