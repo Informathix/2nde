@@ -130,6 +130,12 @@ Vous allez ouvrir `Anaconda` puis `Jupyter`.
 Voux  allez  enregistrer  [ce   fichier](https://raw.githubusercontent.com/Informathix/2nde/master/2019_20/Projet2_Donnees/ManipCSV.ipynb)  et  l'ouvrir  depuis
 `Jupyter`.
 
+Pour cela, depuis `Jupyter`, il faut  renommer le fichier dont l'extension a été
+malheureusement  automatiquement  modifiée  par   Windows.  Pour  cela  il  faut
+selectionner le fichier à gauche et faire un clic droit puis `Rename` et enlever
+la fin du nom : le `.txt`.
+
+
 Vous devez obtenir quelque chose qui ressemble à [ça](./ManipCSV.ipynb) 
 
 Vous répondrez aux questions posées dans ce document et inclurez ce fichier dans
