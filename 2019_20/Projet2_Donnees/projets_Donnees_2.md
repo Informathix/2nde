@@ -69,15 +69,16 @@ fichier brut ? Que constatez-vous ? Comment l'expliquez-vous ?
 
 Enregistrez ces deux fichiers sous forme brute.
 
-Nous voulons maintenant les ouvrir avec `Microsoft Excel`.
-Pour cela  on ouvre  `Excel`, on  va sur l'onglet  `Données`, puis  sur `Données
-externes` puis sur `À partir du texte` et naviguez ensuite vers le répertoire où
-se situent les fichiers. Par  exemple choisissons `ParolesFemmes`. On clique sur
-`Importer`. Un menu apparaît  et on voit un aperçu du fichier  décodé en bas. On
+Nous voulons maintenant les ouvrir avec `Libre Office Calc`.
+Pour cela  on ouvre `LibreOffice Calc`,  on va sur l'onglet  `Fichier`, puis sur
+`Ouvrir` 
+et naviguez ensuite vers le répertoire où
+se situent les fichiers. Par exemple choisissons `ParolesFemmes.csv`.
+Un menu apparaît  et on voit un aperçu du fichier  décodé en bas. On
 peut choisir `UTF-8`  pour l'encodage des caractères et on  voit que les accents
 de `Chérie` apparaissent maintenant correctement. Il faut ensuite choisir le bon
-séparateur sur  la page suivante. On  choisit la virgule et  maintenant l'aperçu
-change et tout apparaît par colonne. On clique ensuite sur `Terminer`.
+séparateur (point, point-virgule, virgule,...). On choisit la virgule et maintenant l'aperçu
+change et tout apparaît par colonne. On clique ensuite sur `OK`.
 
 
 
@@ -101,7 +102,7 @@ Que faire avec ces fichiers ? Peut-on répondre à ce genre de questions ? Comme
 
 3.  Voici à présent un nouveau fichier de travail au 
 [format français](./titanic.csv) et au [format anglo-saxon](./titanic_gb.csv). Enregistrez-les. 
-Ouvrez-les avec `Microsoft Excel`.
+Ouvrez-les avec `Libre Office Calc`.
 
 	* Quels sont les **descripteurs** de ce fichier ? Quels sont les *types* des
 	**valeurs** associés à chaque descripteur ? 
@@ -125,10 +126,10 @@ Il est un peu pénible de traiter des  données avec un tableur, surtout s'il y 
 a  beaucoup. Heureusement,  l'utilisation d'un  langage de  programmation adapté
 peut largement nous aider comme par exemple Python.
 
-Vous allez ouvrir `Anaconda` puis `Jupyter`. 
+
 
 Voux  allez  enregistrer  [ce   fichier](https://raw.githubusercontent.com/Informathix/2nde/master/2019_20/Projet2_Donnees/ManipCSV.ipynb)  et  l'ouvrir  depuis
-`Jupyter`.
+`Visual Studio Code`.
 
 Vous devez obtenir quelque chose qui ressemble à [ça](./ManipCSV.ipynb) 
 
